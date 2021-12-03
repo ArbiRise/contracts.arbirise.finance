@@ -1,0 +1,11 @@
+# Arbirise Finance
+
+## Chains
+
+- Arbitrum One
+
+## Contracts
+
+- ARF Token: 0x2354a35E91567d82660b69E7EaC8E9a8930c2E96
+- ArbiStakerERC20: 0x6a894bd1A5476Bdc52B709623B8751e244E6e975
+- ArbiVault: 0xe41dEf472125Bf5B8385A3ffF90C01BD3d02EB26
